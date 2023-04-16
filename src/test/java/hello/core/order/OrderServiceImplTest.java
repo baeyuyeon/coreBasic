@@ -30,4 +30,10 @@ class OrderServiceImplTest {
 
     }
 
+    /*@Test
+    void filedInjectionTest(){
+        OrderServiceImpl orderService1 = new OrderServiceImpl();
+        orderService1.createOrder(1L, "item1",10000);
+
+    }*/
 }
